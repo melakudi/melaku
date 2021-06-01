@@ -1,5 +1,3 @@
-# melaku
+# mel
 
-he made changees on 05/01
-
-I started exercise on this date
+I started exercise on this 05/31
